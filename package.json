@@ -1,0 +1,15 @@
+{
+  "name": "team",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "js"  : "json-server --watch db.json --port 5050"
+  },
+  "author": "shohan",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
