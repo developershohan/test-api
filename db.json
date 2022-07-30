@@ -1,28 +1,39 @@
 {
-    "devs" : [
-        {
-            "id"        : 1,
-            "name"      :"shohan",
-            "location"  :"Dhaka",
-            "age"       :20,
-            "skill"     :"php, react",
-            "pic"       :"https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/281228362_3275983302633010_4900170275858493044_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=174925&_nc_eui2=AeGHH2WkA_9t8viSRA2wCtoDVrp2vooxB4FWuna-ijEHgQV2Bbq93JlzfD6-jQ18JhyIE8qAnSmqnLFbJnZkikFV&_nc_ohc=RgpJWo7sP1YAX9-nPRC&_nc_ht=scontent.fdac135-1.fna&oh=00_AT9dO1QrJ2axEPaNamcZzFnVGuje4fYCGdCj0mIrJ_HqkA&oe=62DAE536"
-        },
-        {
-            "id"        : 2,
-            "name"      :"hasan",
-            "location"  :"Rajshahi",
-            "age"       :31,
-            "skill"     :" react",
-            "pic"       :"https://scontent.fdac135-1.fna.fbcdn.net/v/t1.18169-9/28056308_1607678072600670_3957186516562958075_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFgZDOrNYu069zwHgUWrAqVDT-VopzJyX4NP5WinMnJfrwr0Ib1SZq5yIfAJN3_BTZQxObRskqxDRJYd6Aqopfn&_nc_ohc=FBLR8vOvAvgAX9u8cEI&_nc_ht=scontent.fdac135-1.fna&oh=00_AT8kIcebh2YZLzJNEHP9yaq7BH5jCxxyMa28cDaOl980HQ&oe=62FB0151"
-        },
-        {
-            "id"        : 3,
-            "name"      :"shihab",
-            "location"  :"borisal",
-            "age"       :15,
-            "skill"     :"html, css",
-            "pic"       :"https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/286447944_109218948479997_7124471393878824510_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeF0nbAxqWuxQNPiWN8IB3XObmnIuefWzBFuaci559bMEZCmodgerL_ZhXx_pvfmFVG73R-JfVil0eoemjRWBOCi&_nc_ohc=QrhgV-Ygnw4AX9fKhni&_nc_ht=scontent.fdac135-1.fna&oh=00_AT86v-0wu_zFCXAZvEQxv15EldUYfxgFx2DMMgloj07EDw&oe=62DAF7E6"
-        }
-    ]
+  "devs": [
+    {
+      "id": 1,
+      "name": "shohan",
+      "location": "Dhaka",
+      "age": 20,
+      "skill": "php, react",
+      "pic": "https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/281228362_3275983302633010_4900170275858493044_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=174925&_nc_eui2=AeGHH2WkA_9t8viSRA2wCtoDVrp2vooxB4FWuna-ijEHgQV2Bbq93JlzfD6-jQ18JhyIE8qAnSmqnLFbJnZkikFV&_nc_ohc=RgpJWo7sP1YAX9-nPRC&_nc_ht=scontent.fdac135-1.fna&oh=00_AT9dO1QrJ2axEPaNamcZzFnVGuje4fYCGdCj0mIrJ_HqkA&oe=62DAE536"
+    },
+    {
+      "id": 3,
+      "name": "shihab",
+      "location": "borisal",
+      "age": 15,
+      "skill": "html, css",
+      "pic": "https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/286447944_109218948479997_7124471393878824510_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeF0nbAxqWuxQNPiWN8IB3XObmnIuefWzBFuaci559bMEZCmodgerL_ZhXx_pvfmFVG73R-JfVil0eoemjRWBOCi&_nc_ohc=QrhgV-Ygnw4AX9fKhni&_nc_ht=scontent.fdac135-1.fna&oh=00_AT86v-0wu_zFCXAZvEQxv15EldUYfxgFx2DMMgloj07EDw&oe=62DAF7E6"
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "hasan",
+      "location": "Rajshahi",
+      "age": 31,
+      "skill": " react",
+      "pic": "https://scontent.fdac135-1.fna.fbcdn.net/v/t1.18169-9/28056308_1607678072600670_3957186516562958075_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFgZDOrNYu069zwHgUWrAqVDT-VopzJyX4NP5WinMnJfrwr0Ib1SZq5yIfAJN3_BTZQxObRskqxDRJYd6Aqopfn&_nc_ohc=FBLR8vOvAvgAX9u8cEI&_nc_ht=scontent.fdac135-1.fna&oh=00_AT8kIcebh2YZLzJNEHP9yaq7BH5jCxxyMa28cDaOl980HQ&oe=62FB0151"
+    },
+    {
+      "id": 2,
+      "name": "hasan",
+      "location": "Rajshahi",
+      "age": 31,
+      "skill": " react",
+      "pic": "https://scontent.fdac135-1.fna.fbcdn.net/v/t1.18169-9/28056308_1607678072600670_3957186516562958075_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFgZDOrNYu069zwHgUWrAqVDT-VopzJyX4NP5WinMnJfrwr0Ib1SZq5yIfAJN3_BTZQxObRskqxDRJYd6Aqopfn&_nc_ohc=FBLR8vOvAvgAX9u8cEI&_nc_ht=scontent.fdac135-1.fna&oh=00_AT8kIcebh2YZLzJNEHP9yaq7BH5jCxxyMa28cDaOl980HQ&oe=62FB0151"
+    }
+  ]
 }
